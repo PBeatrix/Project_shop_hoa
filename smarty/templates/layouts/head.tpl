@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-      <base href="http://localhost/shop_hoa/" />
+      <base href="http://localhost/beatrixshop/" />
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         <!-- WEBSITE TITLE & DESCRIPTION -->
