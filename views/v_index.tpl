@@ -22,7 +22,6 @@
         {include file="views/trang_chu/v_mau_hoa_giam_gia.tpl" }
     </div>
 </div>
-{include file="layouts/body/quang_cao.tpl"}
 <div class="container">
   <div class="cms-static-mix-custom-product block-custom-product">
   	<div class="container">

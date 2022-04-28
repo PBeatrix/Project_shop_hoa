@@ -59,9 +59,6 @@
               <a href="thong_tin.php">Thông tin</a>
             </li>
             <li>
-              <a href="quang_cao.php">Quảng cáo</a>
-            </li>
-            <li>
               <a href="logo.php">Logo</a>
             </li>
           </ul>

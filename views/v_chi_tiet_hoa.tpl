@@ -18,6 +18,5 @@
 </div>
   {include file="views/chi_tiet_hoa/v_san_pham_cung_loai.tpl"}
   {include file="views/chi_tiet_hoa/v_lich_su_xem.tpl"}
-  {include file="layouts/body/quang_cao.tpl"}
 </div>
 {include file="views/v_gio_hang_ajax.tpl"}

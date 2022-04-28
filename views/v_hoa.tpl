@@ -7,6 +7,5 @@
             </div>
           </div>
     </div>
-      {include file="layouts/body/quang_cao.tpl"}
   </div>
 {include file="views/v_gio_hang_ajax.tpl"}
