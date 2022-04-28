@@ -62,9 +62,6 @@
               <a href="quang_cao.php">Quảng cáo</a>
             </li>
             <li>
-              <a href="tin_tuc.php">Tin tức</a>
-            </li>
-            <li>
               <a href="logo.php">Logo</a>
             </li>
           </ul>

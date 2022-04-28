@@ -12,11 +12,9 @@
     </div>
     <nav id="bsm_header_mobile_nav"><ul class="bsm_header_nav_left">
             <li ><a href=".">Trang chủ</a></li>
-            <li><a href="gioi_thieu.php">Giới thiệu</a></li>
             <li><a href="danh-sach-hoa">Hoa tươi</a></li>
         </ul>
         <ul class="bsm_header_nav_left">
-            <li><a href="tin_tuc.php">Tin Tức</a></li>
             <li><a href="check_hoa_don.php">Check hóa đơn</a></li>
             <li><a href="lien-he.html">Liên hệ</a></li>
         </ul>
@@ -82,7 +80,6 @@
             <nav>
                 <ul class="bsm_header_nav_left">
                     <li ><a href=".">Trang chủ</a></li>
-                    <li><a href="gioi_thieu.php">Giới thiệu</a></li>
                     <li><a href="danh-sach-hoa">Hoa tươi</a></li>
                 </ul>
             </nav>
@@ -95,7 +92,6 @@
         <div class="col-md-5">
             <nav>
                 <ul class="bsm_header_nav_left">
-                    <li><a href="tin_tuc.php">Tin Tức</a></li>
                     <li><a href="check_hoa_don.php">Check hóa đơn</a></li>
                     <li><a href="lien-he.html">Liên hệ</a></li>
                 </ul>

@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.30, created on 2022-04-28 18:02:51
+/* Smarty version 3.1.30, created on 2022-04-28 18:38:42
   from "C:\xampp\htdocs\beatrixshop\admin\smarty\templates\layouts\content\navbar_content.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.30',
-  'unifunc' => 'content_626abaabc59212_86803654',
+  'unifunc' => 'content_626ac312e5cb65_42157321',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '9c21f4e0c6395dbda73941359a803dab8255c614' => 
     array (
       0 => 'C:\\xampp\\htdocs\\beatrixshop\\admin\\smarty\\templates\\layouts\\content\\navbar_content.tpl',
-      1 => 1517738931,
+      1 => 1651163570,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_626abaabc59212_86803654 (Smarty_Internal_Template $_smarty_tpl) {
+function content_626ac312e5cb65_42157321 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top print" id="mainNav">
     <a class="navbar-brand" href="../">Quản lý cửa hàng</a>
@@ -84,9 +84,6 @@ function content_626abaabc59212_86803654 (Smarty_Internal_Template $_smarty_tpl)
             </li>
             <li>
               <a href="quang_cao.php">Quảng cáo</a>
-            </li>
-            <li>
-              <a href="tin_tuc.php">Tin tức</a>
             </li>
             <li>
               <a href="logo.php">Logo</a>

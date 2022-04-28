@@ -17,9 +17,6 @@ class C_index
         $san_pham_re_nhat=$m_index->san_pham_re_nhat();
         $doc_slider=$m_index->doc_slider();
         $doc_thong_tin=$m_index->doc_thong_tin();
-        include("models/m_tin_tuc.php");
-        $m_tin_tuc=new M_tin_tuc();
-        $tin_tuc=$m_tin_tuc->doc_tat_ca_su_kien();
 
         include("Smarty_shop_hoa.php");
         $smarty = new Smarty_Shop_Hoa();
@@ -33,7 +30,6 @@ class C_index
         $smarty->assign('san_pham_noi_bat', $san_pham_noi_bat);
         $smarty->assign('san_pham_re_nhat', $san_pham_re_nhat);
         $smarty->assign('doc_hoa', $doc_hoa);
-        $smarty->assign('tin_tuc', $tin_tuc);
         $smarty->assign('doc_slider', $doc_slider);
         $smarty->assign('doc_thong_tin', $doc_thong_tin);
         $smarty->display("layout_trang_chu.tpl");
