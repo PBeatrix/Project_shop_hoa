@@ -4,7 +4,7 @@
 - Vào thư mục smarty/templates/layouts/head.tpl chỉnh lại base website
 
 - Truy cập /admin để vào trang quản trị
-- Tài khoản đăng nhập admin mặc định nhấp lưu đăng nhập để lưu phiên đăng nhập: lmhanh/lmhanh123
+- Tài khoản đăng nhập admin mặc định nhấp lưu đăng nhập để lưu phiên đăng nhập: admin/12345
 <br><br><br><br>
 <strong>Tổng quan giao diện trang người dùng:</strong>
 <br><br>

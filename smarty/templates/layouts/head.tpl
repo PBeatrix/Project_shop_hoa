@@ -10,11 +10,8 @@
         <title>{$title} | {$title_website}</title>
         <meta name="description" content="{$description_website}" />
         <meta name="keywords" content="{$keywords_website}">
-        <meta itemprop="image" content="{$image_seo}" />
-        <meta property="og:url" itemprop="url" content="{$url_seo}" />
         <meta property="og:title" content="{$title} | {$title_website}" />
         <meta property="og:description" content="{$description_website}" />
-        <meta property="og:image" content="{$image_seo}" />
         <!-- STYLE CSS -->
 		<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
         <link rel="stylesheet" href="public/css/bootstrap.min.css">

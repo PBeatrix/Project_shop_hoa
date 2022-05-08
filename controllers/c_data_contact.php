@@ -11,6 +11,4 @@
     $email = $contact->email;
     $address = $contact->address;
     $google_map = $contact->google_map;
-    $image_seo = "http://$_SERVER[HTTP_HOST]/public/images/logo/".$logo;
-    $url_seo = "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
 ?>

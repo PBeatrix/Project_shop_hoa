@@ -26,7 +26,7 @@ class C_slider
              $imageFileType = pathinfo($target_file,PATHINFO_EXTENSION);
              $xuat = $m_slider->doc_slider_theo_id($id);
              if(!empty($_FILES['hinh']['name'])){
-                 if($_FILES["hinh"]["size"] > 500000){
+                 if($_FILES["hinh"]["size"] > 5000000){
                      $_SESSION['thongBao'] = "File không được lớn hơn 5MB";
                      $uploadOk = 0;
                  }

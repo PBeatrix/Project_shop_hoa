@@ -31,7 +31,7 @@ class M_slider extends database
             $imageFileType = pathinfo($target_file,PATHINFO_EXTENSION);
             if (isset($_FILES['hinh']))
             {
-                if($_FILES["hinh"]["size"] > 500000){
+                if($_FILES["hinh"]["size"] > 5000000){
                     $_SESSION['thongBao'] = "File không được lớn hơn 5MB";
                     $uploadOk = 0;
                 }

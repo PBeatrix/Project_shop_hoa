@@ -42,7 +42,7 @@ order by sl desc limit 3";
       return $this->loadAllRows();
     }
     function doc_slider(){
-      $sql="SELECT * FROM `slider` ORDER BY ThoiGian LIMIT 3";
+      $sql="SELECT * FROM `slider` ORDER BY ThoiGian";
       $this->setQuery($sql);
       return $this->loadAllRows();
     }
